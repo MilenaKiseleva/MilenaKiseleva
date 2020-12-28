@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+Find my latest work and links to my [YouTube](https://www.youtube.com/channel/UCoFqkP2lock02zAHuyLLXyg), [Instagram](https://www.instagram.com/milava_kiseleva/), etc. on my website: [milenakiseleva.com](https://milenakiseleva.com).
+
 <!--
+If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/milenakiseleva).
+
 **MilenaKiseleva/MilenaKiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
